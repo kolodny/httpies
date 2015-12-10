@@ -1,6 +1,6 @@
 {
   "name": "httpies",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "httpie with extra headers",
   "main": "index.js",
   "bin": {
